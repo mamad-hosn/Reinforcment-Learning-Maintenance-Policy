@@ -1,7 +1,7 @@
 # Reinforcment-Learning-Maintenance
 Reinforcement Learning Based Maintenance Decision Making for Deteriorating Systems
 ## Overview
-This essay, titled "Remaining useful life (RUL) based maintenance decision making for deteriorating systems" by Phuc Do Van, Eric Levrat, Alexandre Voisin, and Benoit Iung, aims to minimize the cost of repairing a deteriorating machine. The essay adopts a proactive condition-based maintenance (CBM) approach that uses RUL prognosis to select the optimal maintenance action. conversly,we employ a Q-learning algorithm to train an agent to find the best policy for repairing the system. The essay defines T as the time of inspection and q as the confidence interval of estimation. we try to find the optimal T for each q and by the end, the have been compared.
+This essay, titled "Remaining useful life (RUL) based maintenance decision making for deteriorating systems" by Phuc Do Van, Eric Levrat, Alexandre Voisin, and Benoit Iung, aims to minimize the cost of repairing a deteriorating machine. The essay adopts a proactive condition-based maintenance (CBM) approach that uses RUL prognosis to select the optimal maintenance action. conversly,we employ a Q-learning algorithm to train an agent to find the best policy for repairing the system. The essay defines T as the time of inspection and q as the confidence interval of estimation. we try to find the optimal T for each q and by the end, they have been compared.
 
 
 ## what is the problem

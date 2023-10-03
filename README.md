@@ -14,18 +14,17 @@ The environment of the deteriorating system that is used in the essay "Remaining
 3 Actions : Maintenance, Opportunities,Do nothing
 delta_T = 5
 
-alpha = 1 # learning rate
-max_alpha = 1
-min_alpha = 0
-alpha_decay_rate = 0.01
-discount_factor = 0.85  
-num_episodes = 500 # Number of episodes
+alpha = 1 # learning rate --
+max_alpha = 1 --
+min_alpha = 0 --
+alpha_decay_rate = 0.01 --
+discount_factor = 0.85 --
+num_episodes = 500 # Number of episodes 
 
-epsilon = 1  # Epsilon-greedy exploration rate
-max_epsilon = 1
-min_epsilon = 0.01
-exploration_decay_rate = 0.01
-
+epsilon = 1  # Epsilon-greedy exploration rate --
+max_epsilon = 1 --
+min_epsilon = 0.01 --
+exploration_decay_rate = 0.01 --
 max_step = 50
 
 ## conclusion
